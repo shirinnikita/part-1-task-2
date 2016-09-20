@@ -1,0 +1,12 @@
+{
+    "yandex": {
+        "username": "lolkekov42@yandex.ru",
+        "password": "lolkekov",
+        "secretQuestionAnswer": "lolkekov"
+    },
+
+    "twitter": {
+        "username": "lolkekov42",
+        "password": "lolkekov"
+    }
+}

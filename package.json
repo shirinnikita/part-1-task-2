@@ -1,0 +1,18 @@
+{
+  "name": "frontend_homework_2",
+  "author": "kek",
+  "version": "0.0.1",
+  "main": "README.md",
+  "engines": {
+    "node": "6.2.0"
+  },
+  "license": "MIT",
+  "scripts": {
+    "task_1": "NODE_PATH=. node tasks/task_1.js",
+    "task_2": "NODE_PATH=. node tasks/task_2.js",
+    "task_3": "NODE_PATH=. node tasks/task_3.js"
+  },
+  "dependencies": {
+    "request": "^2.75.0"
+  }
+}
