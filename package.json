@@ -10,9 +10,11 @@
   "scripts": {
     "task_1": "NODE_PATH=. node tasks/task_1.js",
     "task_2": "NODE_PATH=. node tasks/task_2.js",
-    "task_3": "NODE_PATH=. node tasks/task_3.js"
+    "task_3": "NODE_PATH=. node tasks/task_3.js",
+    "test": "node test.js"
   },
   "dependencies": {
+    "promises-aplus-tests": "^2.1.2",
     "request": "^2.75.0"
   }
 }
