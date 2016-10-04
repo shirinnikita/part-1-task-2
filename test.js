@@ -1,4 +1,6 @@
 let SuperPromise = require('./lib/SuperPromise');
 let testPromise = require('./lib/testPromise');
 
-testPromise(SuperPromise);
+let runner = process.env.NODE_RUNNER;
+
+testPromise[runner](SuperPromise);
